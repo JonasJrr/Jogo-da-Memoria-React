@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JonasJrr/Jogo-da-Memoria-com-React.git/static/css/main.2eb779d0.css",
+    "main.js": "/JonasJrr/Jogo-da-Memoria-com-React.git/static/js/main.5addbd9a.js",
+    "static/js/787.3c0df52f.chunk.js": "/JonasJrr/Jogo-da-Memoria-com-React.git/static/js/787.3c0df52f.chunk.js",
+    "index.html": "/JonasJrr/Jogo-da-Memoria-com-React.git/index.html",
+    "main.2eb779d0.css.map": "/JonasJrr/Jogo-da-Memoria-com-React.git/static/css/main.2eb779d0.css.map",
+    "main.5addbd9a.js.map": "/JonasJrr/Jogo-da-Memoria-com-React.git/static/js/main.5addbd9a.js.map",
+    "787.3c0df52f.chunk.js.map": "/JonasJrr/Jogo-da-Memoria-com-React.git/static/js/787.3c0df52f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eb779d0.css",
+    "static/js/main.5addbd9a.js"
+  ]
+}
